@@ -4,11 +4,11 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![PHP](https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=Php)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/SASS-black.svg?style=for-the-badge&logo=SASS)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 
 ## Stats
 
