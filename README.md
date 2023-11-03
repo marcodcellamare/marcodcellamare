@@ -1,4 +1,4 @@
-## Main skills
+## Developer skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
@@ -9,6 +9,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/SASS-black.svg?style=for-the-badge&logo=SASS)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=bootstrap)
+
+## Designer skills
+
+![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-black.svg?style=for-the-badge&logo=adobe%20illustrator)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-black.svg?style=for-the-badge&logo=adobe%20photoshop)
 
 ## Stats
 
