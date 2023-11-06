@@ -2,7 +2,9 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
+![npm](https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![ApacheCordova](https://img.shields.io/badge/Cordova-black?style=for-the-badge&logo=apache-cordova)
 ![PHP](https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=Php)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
