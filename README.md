@@ -1,7 +1,7 @@
-## Portfolio
+## Links
 
-[Website](https://marcodcellamare.github.io)
-[Portfolio PDF v2024](https://drive.google.com/file/d/1OWAXKrTSuLgLejPJ3p-jRFR_bp7ZbROT/view)
+* [Website](https://marcodcellamare.github.io)
+* [Portfolio PDF v2024](https://drive.google.com/file/d/1OWAXKrTSuLgLejPJ3p-jRFR_bp7ZbROT/view)
 
 ## Developer skills
 
