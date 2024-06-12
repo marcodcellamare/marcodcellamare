@@ -2,6 +2,8 @@
 
 * [Website](https://marcodcellamare.github.io)
 * [Portfolio PDF v2024](https://drive.google.com/file/d/1OWAXKrTSuLgLejPJ3p-jRFR_bp7ZbROT/view)
+* [Behance](https://www.behance.net/marco-cellamare)
+* [Instagram](https://www.instagram.com/marcod.cellamare)
 
 ## Developer skills
 
