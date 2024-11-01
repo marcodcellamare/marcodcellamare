@@ -6,6 +6,10 @@
 * [Behance](https://www.behance.net/marco-cellamare)
 * [Instagram](https://www.instagram.com/marcod.cellamare)
 
+## Personal projects
+
+* [Instagram follower checker](https://marcodcellamare.github.io/ig-followers-check/)
+
 ## Developer skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
