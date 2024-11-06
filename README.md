@@ -8,7 +8,7 @@
 
 ## Personal projects
 
-* [Instagram follower checker](https://marcodcellamare.github.io/ig-followers-check/)
+* [Instagram follower check](https://marcodcellamare.github.io/ig-followers-check/)
 
 ## Developer skills
 
