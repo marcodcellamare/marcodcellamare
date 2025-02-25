@@ -12,18 +12,17 @@
 
 ## Developer skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-![npm](https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![ApacheCordova](https://img.shields.io/badge/Cordova-black?style=for-the-badge&logo=apache-cordova)
-![Apache](https://img.shields.io/badge/-Apache-black?style=for-the-badge&logo=Apache)
-![PHP](https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=Php)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
-![SASS](https://img.shields.io/badge/SASS-black.svg?style=for-the-badge&logo=SASS)
-![Bootstrap](https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=bootstrap)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
+
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 ## Designer skills
 
