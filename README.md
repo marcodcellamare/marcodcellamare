@@ -8,7 +8,7 @@
 
 ## Personal projects
 
-* [Infinite Nonogram / Under dev](https://github.com/marcodcellamare/infinite-nonogram)
+* [Infinite Nonogram - UNDER DEV](https://github.com/marcodcellamare/infinite-nonogram)
 * [Instagram followers check](https://marcodcellamare.github.io/ig-followers-check/)
 
 ## Developer skills
