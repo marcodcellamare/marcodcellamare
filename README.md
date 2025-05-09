@@ -8,7 +8,7 @@
 
 ## Personal projects
 
-* [Infinite Nonogram](https://github.com/marcodcellamare/infinite-nonogram): [Play the game »](https://marcodcellamare.github.io/infinite-nonogram/)
+* [Infinite Nonogram](https://github.com/marcodcellamare/infinite-nonogram) [(Play the game »)](https://marcodcellamare.github.io/infinite-nonogram/)
 * [Instagram followers check](https://marcodcellamare.github.io/ig-followers-check/)
 
 ## Developer skills
