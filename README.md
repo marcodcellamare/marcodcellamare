@@ -8,7 +8,7 @@
 
 ## Personal projects
 
-* [My website v2025 - Under construction](https://github.com/marcodcellamare/marcodcellamare.github.io/tree/dev.2025)
+* [Personal website](https://github.com/marcodcellamare/marcodcellamare.github.io/) [(Visit »)](https://marcodcellamare.github.io/)
 * [Infinite Nonogram](https://github.com/marcodcellamare/infinite-nonogram) [(Play the game »)](https://marcodcellamare.github.io/infinite-nonogram/)
 * [Instagram followers check](https://marcodcellamare.github.io/ig-followers-check/)
 
