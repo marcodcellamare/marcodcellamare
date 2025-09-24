@@ -29,7 +29,7 @@
 ![DaisyUI Badge](https://img.shields.io/badge/DaisyUI-1AD1A5?logo=daisyui&logoColor=fff&style=flat)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
 ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat)
-![Zustand Badge](https://img.shields.io/badge/Zustand)
+![Zustand Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat&label=Zustand)
 
 
 
