@@ -1,14 +1,14 @@
 # Personal projects
 
 [![The Portfolio of Marco D. Cellamare](https://img.shields.io/badge/Visit-The_Portfolio_of_Marco_D._Cellamare-fa3e70?style=for-the-badge)](https://marcodcellamare.github.io/)
-[![The Portfolio of Marco D. Cellamare Repo](https://img.shields.io/badge/Repo-fa3e70?style=for-the-badge)](https://github.com/marcodcellamare/marcodcellamare.github.io/)
-[![The Portfolio of Marco D. Cellamare PDF](https://img.shields.io/badge/PDF_(old_version)-fa3e70?style=for-the-badge)](https://drive.google.com/file/d/1OWAXKrTSuLgLejPJ3p-jRFR_bp7ZbROT/view)
+[![The Portfolio of Marco D. Cellamare Repo](https://img.shields.io/badge/Repo-807d80?style=for-the-badge)](https://github.com/marcodcellamare/marcodcellamare.github.io/)
+[![The Portfolio of Marco D. Cellamare PDF](https://img.shields.io/badge/PDF_(old_version)-807d80?style=for-the-badge)](https://drive.google.com/file/d/1OWAXKrTSuLgLejPJ3p-jRFR_bp7ZbROT/view)
 
 [![Infinite Nonogram](https://img.shields.io/badge/Visit-Infinite_Nonogram-00e8c1?style=for-the-badge)](https://marcodcellamare.github.io/infinite-nonogram/)
-[![Infinite Nonogram Repo](https://img.shields.io/badge/Repo-00e8c1?style=for-the-badge)](https://github.com/marcodcellamare/infinite-nonogram/)
+[![Infinite Nonogram Repo](https://img.shields.io/badge/Repo-807d80?style=for-the-badge)](https://github.com/marcodcellamare/infinite-nonogram/)
 
 [![Instagram followers check](https://img.shields.io/badge/Visit-Instagram_followers_check-cb6af7?style=for-the-badge)](https://marcodcellamare.github.io/ig-followers-check/)
-[![Instagram followers check Repo](https://img.shields.io/badge/Repo-cb6af7?style=for-the-badge)](https://github.com/marcodcellamare/ig-followers-check/)
+[![Instagram followers check Repo](https://img.shields.io/badge/Repo-807d80?style=for-the-badge)](https://github.com/marcodcellamare/ig-followers-check/)
 
 * [LinkedIn](https://www.linkedin.com/in/marcocellamare)
 * [Behance](https://www.behance.net/marco-cellamare)
