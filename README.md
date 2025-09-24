@@ -8,6 +8,9 @@
 
 ## Personal projects
 
+[![The Portfolio of Marco D. Cellamare](https://img.shields.io/badge/Visit-My_Portfolio-4CAF50?style=for-the-badge)](https://marcodcellamare.github.io/)
+
+
 * [Personal website](https://github.com/marcodcellamare/marcodcellamare.github.io/) [(Visit »)](https://marcodcellamare.github.io/)
 * [Infinite Nonogram](https://github.com/marcodcellamare/infinite-nonogram/) [(Play the game »)](https://marcodcellamare.github.io/infinite-nonogram/)
 * [Instagram followers check](https://github.com/marcodcellamare/ig-followers-check/) [(Visit »)](https://marcodcellamare.github.io/ig-followers-check/)
