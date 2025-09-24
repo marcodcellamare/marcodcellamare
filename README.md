@@ -34,8 +34,8 @@
 
 ## Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=marcodcellamare&theme=onedark&title=-Stars,-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=marcodcellamare&theme=onedark&title=-Stars,-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcodcellamare&hide=TeX&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcodcellamare&layout=compact&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=marcodcellamare&theme=dark)](https://git.io/streak-stats)
