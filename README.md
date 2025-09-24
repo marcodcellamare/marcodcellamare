@@ -10,9 +10,11 @@
 [![Instagram followers check](https://img.shields.io/badge/Visit-Instagram_followers_check-cb6af7?style=for-the-badge)](https://marcodcellamare.github.io/ig-followers-check/)
 [![Instagram followers check Repo](https://img.shields.io/badge/Repo-807d80?style=for-the-badge)](https://github.com/marcodcellamare/ig-followers-check/)
 
-* [LinkedIn](https://www.linkedin.com/in/marcocellamare)
-* [Behance](https://www.behance.net/marco-cellamare)
-* [Instagram](https://www.instagram.com/marcod.cellamare)
+# Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-807d80?style=for-the-badge)](https://www.linkedin.com/in/marcocellamare)
+[![Behance](https://img.shields.io/badge/Behance-807d80?style=for-the-badge)](https://www.behance.net/marco-cellamare)
+[![Instagram](https://img.shields.io/badge/Instagram-807d80?style=for-the-badge)](https://www.instagram.com/marcod.cellamare)
 
 # Tech Stack
 
