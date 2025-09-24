@@ -38,4 +38,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcodcellamare&hide=TeX&layout=compact&theme=dark)
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcodcellamare&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=marcodcellamare&theme=dark)](https://git.io/streak-stats)
