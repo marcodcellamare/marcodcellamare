@@ -8,8 +8,11 @@
 
 ## Personal projects
 
-[![The Portfolio of Marco D. Cellamare](https://img.shields.io/badge/Visit-My_Portfolio-fa3e70?style=for-the-badge)](https://marcodcellamare.github.io/)
-[![The Portfolio of Marco D. Cellamare](https://img.shields.io/badge/Repo-fa3e70?style=for-the-badge)](https://github.com/marcodcellamare/marcodcellamare.github.io/)
+[![The Portfolio of Marco D. Cellamare](https://img.shields.io/badge/Visit-The_Portfolio_of_Marco_D._Cellamare-fa3e70?style=for-the-badge)](https://marcodcellamare.github.io/)
+[![The Portfolio of Marco D. Cellamare Repo](https://img.shields.io/badge/Repo-fa3e70?style=for-the-badge)](https://github.com/marcodcellamare/marcodcellamare.github.io/)
+
+[![Infinite Nonogram](https://img.shields.io/badge/Visit-Infinite_Nonogram-00e8c1?style=for-the-badge)](https://marcodcellamare.github.io/infinite-nonogram/)
+[![Infinite Nonogram Repo](https://img.shields.io/badge/Repo-00e8c1?style=for-the-badge)](https://github.com/marcodcellamare/infinite-nonogram/)
 
 
 * [Personal website](https://github.com/marcodcellamare/marcodcellamare.github.io/) [(Visit »)](https://marcodcellamare.github.io/)
