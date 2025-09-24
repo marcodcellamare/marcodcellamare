@@ -1,27 +1,22 @@
-## Links
-
-* [Website](https://marcodcellamare.github.io)
-* [Portfolio PDF v2024](https://drive.google.com/file/d/1OWAXKrTSuLgLejPJ3p-jRFR_bp7ZbROT/view)
-* [LinkedIn](https://www.linkedin.com/in/marcocellamare)
-* [Behance](https://www.behance.net/marco-cellamare)
-* [Instagram](https://www.instagram.com/marcod.cellamare)
-
-## Personal projects
+# Personal projects
 
 [![The Portfolio of Marco D. Cellamare](https://img.shields.io/badge/Visit-The_Portfolio_of_Marco_D._Cellamare-fa3e70?style=for-the-badge)](https://marcodcellamare.github.io/)
 [![The Portfolio of Marco D. Cellamare Repo](https://img.shields.io/badge/Repo-fa3e70?style=for-the-badge)](https://github.com/marcodcellamare/marcodcellamare.github.io/)
+[![The Portfolio of Marco D. Cellamare PDF](https://img.shields.io/badge/PDF_(old_version)-fa3e70?style=for-the-badge)](https://drive.google.com/file/d/1OWAXKrTSuLgLejPJ3p-jRFR_bp7ZbROT/view)
 
 [![Infinite Nonogram](https://img.shields.io/badge/Visit-Infinite_Nonogram-00e8c1?style=for-the-badge)](https://marcodcellamare.github.io/infinite-nonogram/)
 [![Infinite Nonogram Repo](https://img.shields.io/badge/Repo-00e8c1?style=for-the-badge)](https://github.com/marcodcellamare/infinite-nonogram/)
 
+[![Instagram followers check](https://img.shields.io/badge/Visit-Infinite_Nonogram-00e8c1?style=for-the-badge)](https://marcodcellamare.github.io/ig-followers-check/)
+[![Instagram followers check Repo](https://img.shields.io/badge/Repo-00e8c1?style=for-the-badge)](https://github.com/marcodcellamare/ig-followers-check/)
 
-* [Personal website](https://github.com/marcodcellamare/marcodcellamare.github.io/) [(Visit »)](https://marcodcellamare.github.io/)
-* [Infinite Nonogram](https://github.com/marcodcellamare/infinite-nonogram/) [(Play the game »)](https://marcodcellamare.github.io/infinite-nonogram/)
-* [Instagram followers check](https://github.com/marcodcellamare/ig-followers-check/) [(Visit »)](https://marcodcellamare.github.io/ig-followers-check/)
+* [LinkedIn](https://www.linkedin.com/in/marcocellamare)
+* [Behance](https://www.behance.net/marco-cellamare)
+* [Instagram](https://www.instagram.com/marcod.cellamare)
 
-## Tech Stack
+# Tech Stack
 
-### Front-End Development
+## Front-End Development
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat)
@@ -50,7 +45,7 @@
 ![Capacitor Badge](https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=fff&style=flat)
 ![Apache Cordova Badge](https://img.shields.io/badge/Apache%20Cordova-E8E8E8?logo=apachecordova&logoColor=000&style=flat)
 
-### Back-End Development
+## Back-End Development
 
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![Composer Badge](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=flat)
@@ -61,13 +56,12 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 
-### Digital Design
+## Digital Design
 
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
 
-## Stats
+# Stats
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=marcodcellamare&theme=onedark&title=-Stars,-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcodcellamare&layout=compact&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=marcodcellamare&theme=dark)](https://git.io/streak-stats)
