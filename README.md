@@ -8,7 +8,8 @@
 
 ## Personal projects
 
-[![The Portfolio of Marco D. Cellamare](https://img.shields.io/badge/Visit-My_Portfolio-4CAF50?style=for-the-badge)](https://marcodcellamare.github.io/)
+[![The Portfolio of Marco D. Cellamare](https://img.shields.io/badge/Visit-My_Portfolio-fa3e70?style=for-the-badge)](https://marcodcellamare.github.io/)
+[![The Portfolio of Marco D. Cellamare](https://img.shields.io/badge/Repo-fa3e70?style=for-the-badge)](https://github.com/marcodcellamare/marcodcellamare.github.io/)
 
 
 * [Personal website](https://github.com/marcodcellamare/marcodcellamare.github.io/) [(Visit »)](https://marcodcellamare.github.io/)
